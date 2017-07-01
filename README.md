@@ -1,0 +1,2 @@
+# Gooreplacer
+Gooreplacer Config
