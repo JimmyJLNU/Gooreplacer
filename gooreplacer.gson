@@ -1,6 +1,6 @@
 {
     "createBy": "http://github.com/JimmyJLNU/Gooreplacer",
-    "createAt": "Fri July 7 2017 16:08:00 GMT +8:00",
+    "createAt": "Fri July 7 2017 16:30:00 GMT +8:00",
     "rules": {
         "ajax.googleapis.com": {
             "dstURL": "ajax.proxy.ustclug.org",
@@ -73,6 +73,16 @@
             "enable": true
 		},
 	"connect.facebook.net/en-us/fbevents.js": {
+            "dstURL": "raw.githubusercontent.com/JimmyJLNU/Gooreplacer/master/facebook/fbevents.js",
+            "kind": "wildcard",
+            "enable": true
+		},
+        "connect.facebook.net/zh_CN/fbevents.js": {
+            "dstURL": "raw.githubusercontent.com/JimmyJLNU/Gooreplacer/master/facebook/fbevents.js",
+            "kind": "wildcard",
+            "enable": true
+		},
+	"connect.facebook.net/en_us/fbevents.js": {
             "dstURL": "raw.githubusercontent.com/JimmyJLNU/Gooreplacer/master/facebook/fbevents.js",
             "kind": "wildcard",
             "enable": true
