@@ -1,0 +1,96 @@
+{
+    "createBy": "http://github.com/JimmyJLNU/Gooreplacer",
+    "createAt": "Fri July 7 2017 16:30:00 GMT +8:00",
+    "rules": {
+        "ajax.googleapis.com": {
+            "dstURL": "ajax.proxy.ustclug.org",
+            "kind": "wildcard",
+            "enable": true
+        },
+        "storage.googleapis.com": {
+            "dstURL": "storage-googleapis.proxy.ustclug.org",
+            "kind": "wildcard",
+            "enable": true
+        },
+        "gerrit.googlesource.com": {
+            "dstURL": "gerrit-googlesource.proxy.ustclug.org",
+            "kind": "wildcard",
+            "enable": true
+        },
+        "themes.googleusercontent.com": {
+            "dstURL": "google-themes.proxy.ustclug.org",
+            "kind": "wildcard",
+            "enable": true
+        },
+        "fonts.gstatic.com": {
+            "dstURL": "fonts-gstatic.proxy.ustclug.org",
+            "kind": "wildcard",
+            "enable": true
+        },
+        "fonts.googleapis.com": {
+            "dstURL": "fonts.proxy.ustclug.org",
+            "kind": "wildcard",
+            "enable": true
+        },
+        "platform.twitter.com/widgets.js": {
+            "dstURL": "raw.githubusercontent.com/JimmyJLNU/Gooreplacer/master/Twitter/widgets.js",
+            "kind": "wildcard",
+            "enable": true
+        },
+        "apis.google.com/js/api.js": {
+            "dstURL": "raw.githubusercontent.com/JimmyJLNU/Gooreplacer/master/GoogleApis/api.js",
+            "kind": "wildcard",
+            "enable": true
+        },
+        "apis.google.com/js/plusone.js": {
+            "dstURL": "raw.githubusercontent.com/JimmyJLNU/Gooreplacer/master/GoogleApis/plusone.js",
+            "kind": "wildcard",
+            "enable": true
+		},
+	"connect.facebook.net/zh-CN/all.js": {
+            "dstURL": "raw.githubusercontent.com/JimmyJLNU/Gooreplacer/master/facebook/all.js",
+            "kind": "wildcard",
+            "enable": true
+		},
+	"connect.facebook.net/en_US/all.js": {
+            "dstURL": "raw.githubusercontent.com/JimmyJLNU/Gooreplacer/master/facebook/all.js",
+            "kind": "wildcard",
+            "enable": true
+		},
+	"connect.facebook.net/zh-CN/sdk.js": {
+            "dstURL": "raw.githubusercontent.com/JimmyJLNU/Gooreplacer/master/facebook/sdk.js",
+            "kind": "wildcard",
+            "enable": true
+		},
+        "connect.facebook.net/en_US/sdk.js": {
+            "dstURL": "raw.githubusercontent.com/JimmyJLNU/Gooreplacer/master/facebook/sdk.js",
+            "kind": "wildcard",
+            "enable": true
+		},
+        "connect.facebook.net/zh-CN/fbevents.js": {
+            "dstURL": "raw.githubusercontent.com/JimmyJLNU/Gooreplacer/master/facebook/fbevents.js",
+            "kind": "wildcard",
+            "enable": true
+		},
+	"connect.facebook.net/en-US/fbevents.js": {
+            "dstURL": "raw.githubusercontent.com/JimmyJLNU/Gooreplacer/master/facebook/fbevents.js",
+            "kind": "wildcard",
+            "enable": true
+		},
+        "connect.facebook.net/zh_CN/fbevents.js": {
+            "dstURL": "raw.githubusercontent.com/JimmyJLNU/Gooreplacer/master/facebook/fbevents.js",
+            "kind": "wildcard",
+            "enable": true
+		},
+	"connect.facebook.net/en_US/fbevents.js": {
+            "dstURL": "raw.githubusercontent.com/JimmyJLNU/Gooreplacer/master/facebook/fbevents.js",
+            "kind": "wildcard",
+            "enable": true
+		},
+	"www.gstatic.com/charts/loader.js": {
+            "dstURL": "raw.githubusercontent.com/JimmyJLNU/Gooreplacer/master/gstatic/loader.js",
+            "kind": "wildcard",
+            "enable": true
+        }
+    }
+}
