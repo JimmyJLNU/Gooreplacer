@@ -52,7 +52,7 @@
             "kind": "wildcard",
             "enable": true
 		},
-	"connect.facebook.net/en_U/all.js": {
+	"connect.facebook.net/en_US/all.js": {
             "dstURL": "raw.githubusercontent.com/JimmyJLNU/Gooreplacer/master/facebook/all.js",
             "kind": "wildcard",
             "enable": true
@@ -62,7 +62,7 @@
             "kind": "wildcard",
             "enable": true
 		},
-        "connect.facebook.net/en_U/sdk.js": {
+        "connect.facebook.net/en_US/sdk.js": {
             "dstURL": "raw.githubusercontent.com/JimmyJLNU/Gooreplacer/master/facebook/sdk.js",
             "kind": "wildcard",
             "enable": true
@@ -72,7 +72,7 @@
             "kind": "wildcard",
             "enable": true
 		},
-	"connect.facebook.net/en-U/fbevents.js": {
+	"connect.facebook.net/en-US/fbevents.js": {
             "dstURL": "raw.githubusercontent.com/JimmyJLNU/Gooreplacer/master/facebook/fbevents.js",
             "kind": "wildcard",
             "enable": true
@@ -82,7 +82,7 @@
             "kind": "wildcard",
             "enable": true
 		},
-	"connect.facebook.net/en_U/fbevents.js": {
+	"connect.facebook.net/en_US/fbevents.js": {
             "dstURL": "raw.githubusercontent.com/JimmyJLNU/Gooreplacer/master/facebook/fbevents.js",
             "kind": "wildcard",
             "enable": true
