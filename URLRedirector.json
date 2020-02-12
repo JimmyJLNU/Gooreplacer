@@ -121,6 +121,30 @@
       "enable": true,
       "process": "",
       "_originRe": {}
+    },
+    {
+      "description": "",
+      "origin": "instagram.com",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "tofo.me",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "",
+      "origin": "www.instagram.com",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "lookins.me",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
     }
   ]
 }
