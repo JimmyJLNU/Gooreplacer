@@ -1,0 +1,126 @@
+{
+  "version": "1.0",
+  "rules": [
+    {
+      "description": "",
+      "origin": "www.google.com/recaptcha/api.js",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "recaptcha.net/recaptcha/api.js",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "",
+      "origin": "https://www.google.com/recaptcha/api.js",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "https://www.recaptcha.net/recaptcha/api.js",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "",
+      "origin": "www.google.com.hk",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "googleone.azurewebsites.net",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "",
+      "origin": "www.google.com",
+      "exclude": "www.google.com/recaptcha/api.js",
+      "methods": [],
+      "types": [],
+      "target": "google87.azurewebsites.net",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {},
+      "_excludeRe": {}
+    },
+    {
+      "description": "",
+      "origin": "www.youtube.com",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "invidious.snopyta.org",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "",
+      "origin": "twitter.com",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "nitter.net",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "",
+      "origin": "mobile.twitter.com",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "nitter.net",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "",
+      "origin": "www.twitter.com",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "nitter.net",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "",
+      "origin": "zh.m.wikipedia.org",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "zh.m.wikipedia-mirror.org",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "",
+      "origin": "zh.wikipedia.org",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "zh.wikipedia-mirror.org",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    }
+  ]
+}
