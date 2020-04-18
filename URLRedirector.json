@@ -205,6 +205,18 @@
       "enable": true,
       "process": "",
       "_originRe": {}
+    },
+    {
+      "description": "",
+      "origin": "https://c4e9i8n5.stackpathcdn.com",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "http://c4e9i8n5.stackpathcdn.com",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
     }
   ]
 }
