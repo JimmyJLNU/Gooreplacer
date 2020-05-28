@@ -538,7 +538,7 @@
       "exclude": "",
       "methods": [],
       "types": [],
-      "target": "upload.wikipedia.org",
+      "target": "upload.wikimedia.org",
       "example": "",
       "enable": true,
       "process": "",
