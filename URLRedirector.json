@@ -531,6 +531,18 @@
       "enable": true,
       "process": "",
       "_originRe": {}
+    },
+    {
+      "description": "",
+      "origin": "upload.wikimirror.org",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "upload.wikipedia.org",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
     }
   ]
 }
