@@ -534,11 +534,11 @@
     },
     {
       "description": "",
-      "origin": "upload.wikimirror.org",
+      "origin": "wikiquote.org",
       "exclude": "",
       "methods": [],
       "types": [],
-      "target": "upload.wikimedia.org",
+      "target": "wikiquote.wikimirror.org",
       "example": "",
       "enable": true,
       "process": "",
