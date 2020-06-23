@@ -486,11 +486,11 @@
     },
     {
       "description": "",
-      "origin": "https://www.ettoday.net",
+      "origin": "www.ettoday.net",
       "exclude": "",
       "methods": [],
       "types": [],
-      "target": "http://cdn1.ettoday.net",
+      "target": "cdn1.ettoday.net",
       "example": "",
       "enable": true,
       "process": "",
