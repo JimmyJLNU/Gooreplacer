@@ -555,6 +555,18 @@
       "enable": true,
       "process": "",
       "_originRe": {}
+    },
+    {
+      "description": "",
+      "origin": "upload.wikimirror.org",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "upload.wikimedia.org",
+      "example": "",
+      "enable": false,
+      "process": "",
+      "_originRe": {}
     }
   ]
 }
