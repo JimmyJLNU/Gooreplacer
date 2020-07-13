@@ -27,6 +27,18 @@
     },
     {
       "description": "",
+      "origin": "http://twitter.com",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "https://nitter.snopyta.org",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "",
       "origin": "https://twitter.com",
       "exclude": "",
       "methods": [],
