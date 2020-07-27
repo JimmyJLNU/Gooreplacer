@@ -579,6 +579,18 @@
       "enable": false,
       "process": "",
       "_originRe": {}
+    },
+    {
+      "description": "",
+      "origin": "www.cirquedusoleil.com",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "test.cirquedusoleil.com",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
     }
   ]
 }
