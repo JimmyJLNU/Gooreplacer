@@ -159,6 +159,30 @@
     },
     {
       "description": "",
+      "origin": "youtu.be",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "invidious.snopyta.org",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "",
+      "origin": "img.youtube.com",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "invidious.snopyta.org",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "",
       "origin": "http://youtube-nocookie.com",
       "exclude": "",
       "methods": [],
