@@ -85,6 +85,30 @@
       "process": "",
       "_originRe": {}
     },
+      {
+      "description": "",
+      "origin": "http://www.instagram.com",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "https://www.veryins.com",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+      {
+      "description": "",
+      "origin": "http://instagram.com",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "https://www.veryins.com",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
     {
       "description": "",
       "origin": "http://newcongress.tw",
@@ -223,7 +247,7 @@
       "exclude": "",
       "methods": [],
       "types": [],
-      "target": "https://nitter.net",
+      "target": "https://nitter.snopyta.org",
       "example": "",
       "enable": true,
       "process": "",
