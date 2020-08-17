@@ -639,6 +639,18 @@
       "enable": true,
       "process": "",
       "_originRe": {}
+    },
+    {
+      "description": "",
+      "origin": "https://54.37.165.209/",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "http://54.37.165.209/",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
     }
   ]
 }
