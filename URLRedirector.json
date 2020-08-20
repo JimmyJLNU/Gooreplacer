@@ -123,6 +123,18 @@
     },
     {
       "description": "",
+      "origin": "http://times.hinet.net",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "https://times.hinet.net",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "",
       "origin": "ajax.googleapis.com",
       "exclude": "",
       "methods": [],
