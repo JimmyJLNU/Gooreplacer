@@ -642,6 +642,18 @@
     },
     {
       "description": "",
+      "origin": "video.tudou.com",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "new-play.tudou.com",
+      "example": "",
+      "enable": false,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "",
       "origin": "www.cirquedusoleil.com",
       "exclude": "",
       "methods": [],
