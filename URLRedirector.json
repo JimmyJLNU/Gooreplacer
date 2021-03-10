@@ -81,7 +81,7 @@
       "types": [],
       "target": "https://www.veryins.com",
       "example": "",
-      "enable": true,
+      "enable": false,
       "process": "",
       "_originRe": {}
     },
@@ -93,7 +93,7 @@
       "types": [],
       "target": "https://www.veryins.com",
       "example": "",
-      "enable": true,
+      "enable": false,
       "process": "",
       "_originRe": {}
     },
@@ -105,7 +105,7 @@
       "types": [],
       "target": "https://www.veryins.com",
       "example": "",
-      "enable": true,
+      "enable": false,
       "process": "",
       "_originRe": {}
     },
@@ -249,7 +249,7 @@
       "types": [],
       "target": "https://www.veryins.com",
       "example": "",
-      "enable": true,
+      "enable": false,
       "process": "",
       "_originRe": {}
     },
@@ -652,13 +652,49 @@
       "process": "",
       "_originRe": {}
     },
-    {
+  {
       "description": "",
       "origin": "www.cirquedusoleil.com",
       "exclude": "",
       "methods": [],
       "types": [],
       "target": "test.cirquedusoleil.com",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+  {
+      "description": "",
+      "origin": "http://reddit.com",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "https://libredd.it",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+  {
+      "description": "",
+      "origin": "https://reddit.com",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "https://libredd.it",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "",
+      "origin": "www.reddit.com",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "libredd.it",
       "example": "",
       "enable": true,
       "process": "",
