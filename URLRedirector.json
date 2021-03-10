@@ -81,7 +81,7 @@
       "types": [],
       "target": "https://greatfon.com",
       "example": "",
-      "enable": true,
+      "enable": false,
       "process": "",
       "_originRe": {}
     },
@@ -93,7 +93,7 @@
       "types": [],
       "target": "https://greatfon.com",
       "example": "",
-      "enable": true,
+      "enable": false,
       "process": "",
       "_originRe": {}
     },
@@ -105,7 +105,7 @@
       "types": [],
       "target": "https://greatfon.com",
       "example": "",
-      "enable": true,
+      "enable": false,
       "process": "",
       "_originRe": {}
     },
@@ -249,7 +249,7 @@
       "types": [],
       "target": "https://greatfon.com",
       "example": "",
-      "enable": true,
+      "enable": false,
       "process": "",
       "_originRe": {}
     },
