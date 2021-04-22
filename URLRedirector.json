@@ -335,6 +335,16 @@
     },
     {
       "description": "",
+      "origin": "https://instagram.fcgk27-1.fna.fbcdn.net",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "http://instagram.fcgk27-1.fna.fbcdn.net",
+      "example": "",
+      "enable": true
+    },
+    {
+      "description": "",
       "origin": "http://www.ctitv.com.tw",
       "exclude": "",
       "methods": [],
