@@ -996,6 +996,56 @@
       "enable": true,
       "process": "",
       "_originRe": {}
+    },   
+    {
+      "description": "",
+      "origin": "https://instagram.ftun1-2.fna.fbcdn.net",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "http://instagram.ftun1-2.fna.fbcdn.net",
+      "example": "",
+      "enable": true
+    },
+    {
+      "description": "",
+      "origin": "https://scontent-yyz1-1.cdninstagram.com",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "http://scontent-yyz1-1.cdninstagram.com",
+      "example": "",
+      "enable": true
+    },
+    {
+      "description": "",
+      "origin": "https://instagram.fhmj1-1.fna.fbcdn.net",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "http://instagram.fhmj1-1.fna.fbcdn.net",
+      "example": "",
+      "enable": true
+    },
+    {
+      "description": "",
+      "origin": "https://instagram.flwo4-2.fna.fbcdn.net",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "http://instagram.flwo4-2.fna.fbcdn.net",
+      "example": "",
+      "enable": true
+    },
+    {
+      "description": "",
+      "origin": "https://instagram.fdxb1-1.fna.fbcdn.net",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "http://instagram.fdxb1-1.fna.fbcdn.net",
+      "example": "",
+      "enable": true
     },
     {
       "description": "",
