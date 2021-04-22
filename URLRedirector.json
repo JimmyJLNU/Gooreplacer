@@ -960,6 +960,42 @@
       "enable": true,
       "process": "",
       "_originRe": {}
+     },
+     {
+      "description": "",
+      "origin": "https://instagram.fvno1-1.fna.fbcdn.net",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "http://instagram.fvno1-1.fna.fbcdn.net",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "",
+      "origin": "https://instagram.fceb1-1.fna.fbcdn.net",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "http://instagram.fceb1-1.fna.fbcdn.net",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "",
+      "origin": "https://instagram.fdxb2-1.fna.fbcdn.net",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "http://instagram.fdxb2-1.fna.fbcdn.net",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
     },
     {
       "description": "",
