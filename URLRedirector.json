@@ -345,6 +345,16 @@
     },
     {
       "description": "",
+      "origin": "https://instagram.fhnd2-2.fna.fbcdn.net",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "http://instagram.fhnd2-2.fna.fbcdn.net",
+      "example": "",
+      "enable": true
+    },
+    {
+      "description": "",
       "origin": "http://www.ctitv.com.tw",
       "exclude": "",
       "methods": [],
