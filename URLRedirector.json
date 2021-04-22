@@ -528,7 +528,80 @@
       "enable": true,
       "process": "",
       "_originRe": {}
+    },   
+    {
+      "description": "",
+      "origin": "https://instagram.fstv5-1.fna.fbcdn.net",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "http://instagram.fstv5-1.fna.fbcdn.net",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
     },
+    {
+      "description": "",
+      "origin": "https://instagram.fsoc2-1.fna.fbcdn.net",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "http://instagram.fsoc2-1.fna.fbcdn.net",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "",
+      "origin": "https://instagram.fala4-1.fna.fbcdn.net",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "http://instagram.fala4-1.fna.fbcdn.net",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "",
+      "origin": "https://instagram.fkgf1-2.fna.fbcdn.net",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "http://instagram.fkgf1-2.fna.fbcdn.net",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "",
+      "origin": "https://instagram.fcai21-1.fna.fbcdn.net",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "http://instagram.fcai21-1.fna.fbcdn.net",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "",
+      "origin": "https://instagram.fskp4-2.fna.fbcdn.net",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "http://instagram.fskp4-2.fna.fbcdn.net",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
     {
       "description": "",
       "origin": "storage.googleapis.com",
