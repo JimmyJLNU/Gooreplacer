@@ -462,7 +462,7 @@
       "target": "http://instagram.fesb3-2.fna.fbcdn.net/",
       "example": "",
       "enable": true
-    }
+    },
     {
       "description": "",
       "origin": "storage.googleapis.com",
@@ -639,7 +639,7 @@
       "types": [],
       "target": "http://www.google.cn//maps",
       "example": "",
-      "enable": true,
+      "enable": false,
       "process": "",
       "_originRe": {}
     },
@@ -651,7 +651,7 @@
       "types": [],
       "target": "https://www.google.cn//maps",
       "example": "",
-      "enable": true,
+      "enable": false,
       "process": "",
       "_originRe": {}
     },
@@ -700,7 +700,7 @@
       "types": [],
       "target": "www.google.cn//maps/",
       "example": "",
-      "enable": true,
+      "enable": false,
       "process": "",
       "_originRe": {},
       "_excludeRe": {}
@@ -713,7 +713,7 @@
       "types": [],
       "target": "www.google.cn//maps/",
       "example": "",
-      "enable": true,
+      "enable": false,
       "process": "",
       "_originRe": {},
       "_excludeRe": {}
@@ -738,7 +738,7 @@
       "types": [],
       "target": "www.google.cn//maps?",
       "example": "",
-      "enable": true,
+      "enable": false,
       "process": "",
       "_originRe": {}
     },
@@ -750,7 +750,7 @@
       "types": [],
       "target": "www.google.cn//maps?",
       "example": "",
-      "enable": true,
+      "enable": false,
       "process": "",
       "_originRe": {}
     },
