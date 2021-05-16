@@ -85,7 +85,7 @@
       "process": "",
       "_originRe": {}
     },
-      {
+    {
       "description": "",
       "origin": "http://www.instagram.com",
       "exclude": "",
@@ -1398,7 +1398,7 @@
       "process": "",
       "_originRe": {}
     },
-  {
+    {
       "description": "",
       "origin": "www.cirquedusoleil.com",
       "exclude": "",
@@ -1410,7 +1410,7 @@
       "process": "",
       "_originRe": {}
     },
-  {
+    {
       "description": "",
       "origin": "http://reddit.com",
       "exclude": "",
@@ -1422,7 +1422,7 @@
       "process": "",
       "_originRe": {}
     },
-  {
+    {
       "description": "",
       "origin": "https://reddit.com",
       "exclude": "",
