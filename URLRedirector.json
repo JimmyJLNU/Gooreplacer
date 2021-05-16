@@ -1386,6 +1386,18 @@
       "process": "",
       "_originRe": {}
     },
+    {
+      "description": "",
+      "origin": "lanzous.com",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "lanzoux.com",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
   {
       "description": "",
       "origin": "www.cirquedusoleil.com",
