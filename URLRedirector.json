@@ -207,18 +207,6 @@
     },
     {
       "description": "",
-      "origin": "https://github.com/",
-      "exclude": "",
-      "methods": [],
-      "types": [],
-      "target": "https://github.com.cnpmjs.org/",
-      "example": "",
-      "enable": false
-      "process": "",
-      "_originRe": {}
-    },
-    {
-      "description": "",
       "origin": "http://twitter.com",
       "exclude": "",
       "methods": [],
@@ -1287,7 +1275,7 @@
       "target": "www.google.cn//maps?",
       "example": "",
       "enable": false,
-      "process": "",
+      "process": ""
       "_originRe": {}
     },
     {
@@ -1419,6 +1407,18 @@
       "target": "libredd.it",
       "example": "",
       "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "",
+      "origin": "https://github.com/",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "https://github.com.cnpmjs.org/",
+      "example": "",
+      "enable": false
       "process": "",
       "_originRe": {}
     },
