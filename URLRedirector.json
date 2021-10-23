@@ -337,26 +337,6 @@
     },
     {
       "description": "",
-      "origin": "https://cn4.rti.tw",
-      "exclude": "",
-      "methods": [],
-      "types": [],
-      "target": "http://cn4.rti.tw",
-      "example": "",
-      "enable": true
-    },
-    {
-      "description": "",
-      "origin": "www.rti.org.tw",
-      "exclude": "",
-      "methods": [],
-      "types": [],
-      "target": "cn4.rti.tw",
-      "example": "",
-      "enable": true
-    },
-    {
-      "description": "",
       "origin": "https://instagram.fiev22-1.fna.fbcdn.net",
       "exclude": "",
       "methods": [],
