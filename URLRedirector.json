@@ -1592,6 +1592,18 @@
     },
     {
       "description": "",
+      "origin": "https://arkana.momoshop.com.tw",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "http://arkana.momoshop.com.tw",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "",
       "origin": "https://momowa.momoshop.com.tw",
       "exclude": "",
       "methods": [],
