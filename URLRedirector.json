@@ -1223,7 +1223,7 @@
       "types": [],
       "target": "www.google.cn//maps/",
       "example": "",
-      "enable": true,
+      "enable": false,
       "process": "",
       "_originRe": {},
       "_excludeRe": {}
@@ -1249,7 +1249,7 @@
       "types": [],
       "target": "www.google.cn//maps/",
       "example": "",
-      "enable": false,
+      "enable": true,
       "process": "",
       "_originRe": {},
       "_excludeRe": {}
@@ -1262,7 +1262,7 @@
       "types": [],
       "target": "www.google.cn//maps?",
       "example": "",
-      "enable": true,
+      "enable": false,
       "process": "",
       "_originRe": {}
     },
@@ -1274,7 +1274,7 @@
       "types": [],
       "target": "www.google.cn//maps?",
       "example": "",
-      "enable": false,
+      "enable": true,
       "process": "",
       "_originRe": {}
     },
@@ -1286,7 +1286,7 @@
       "types": [],
       "target": "www.google.cn//maps?",
       "example": "",
-      "enable": false,
+      "enable": true,
       "process": "",
       "_originRe": {}
     },
@@ -1412,11 +1412,11 @@
     },
     {
       "description": "",
-      "origin": "http://forcegamez.herokuapp.com",
+      "origin": "https://www.momoshop.com.tw",
       "exclude": "",
       "methods": [],
       "types": [],
-      "target": "https://forcegamez.herokuapp.com",
+      "target": "http://www.momoshop.com.tw",
       "example": "",
       "enable": true,
       "process": "",
