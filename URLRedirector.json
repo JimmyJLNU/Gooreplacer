@@ -105,7 +105,7 @@
       "types": [],
       "target": "ajax.proxy.ustclug.org",
       "example": "",
-      "enable": true,
+      "enable": false,
       "process": "",
       "_originRe": {}
     },
@@ -1019,7 +1019,7 @@
       "types": [],
       "target": "storage-googleapis.proxy.ustclug.org",
       "example": "",
-      "enable": true,
+      "enable": false,
       "process": "",
       "_originRe": {}
     },
