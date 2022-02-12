@@ -103,9 +103,9 @@
       "exclude": "",
       "methods": [],
       "types": [],
-      "target": "ajax.proxy.ustclug.org",
+      "target": "ajax.loli.net",
       "example": "",
-      "enable": false,
+      "enable": true,
       "process": "",
       "_originRe": {}
     },
@@ -207,13 +207,39 @@
     },
     {
       "description": "",
-      "origin": "https://github.com/",
+      "origin": "https://github.com",
       "exclude": "",
       "methods": [],
       "types": [],
-      "target": "https://github.com.cnpmjs.org/",
+      "target": "https://github.jimmyjlnu.workers.dev",
       "example": "",
-      "enable": false
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "",
+      "origin": "https://www.github.com",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "https://github.jimmyjlnu.workers.dev",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "",
+      "origin": "https://raw.githubusercontent.com",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "https://download.fastgit.org",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
     },
     {
       "description": "",
@@ -1008,18 +1034,6 @@
       "target": "google-themes.proxy.ustclug.org",
       "example": "",
       "enable": true,
-      "process": "",
-      "_originRe": {}
-    },
-    {
-      "description": "",
-      "origin": "storage.googleapis.com",
-      "exclude": "",
-      "methods": [],
-      "types": [],
-      "target": "storage-googleapis.proxy.ustclug.org",
-      "example": "",
-      "enable": false,
       "process": "",
       "_originRe": {}
     },
