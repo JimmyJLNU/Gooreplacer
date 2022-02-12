@@ -235,7 +235,7 @@
       "exclude": "",
       "methods": [],
       "types": [],
-      "target": "https://download.fastgit.org",
+      "target": "https://raw.fastgit.org",
       "example": "",
       "enable": true,
       "process": "",
