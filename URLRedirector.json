@@ -117,7 +117,7 @@
       "types": [],
       "target": "wikipedia.wikimirror.org",
       "example": "",
-      "enable": true,
+      "enable": false,
       "process": "",
       "_originRe": {}
     },
@@ -129,7 +129,7 @@
       "types": [],
       "target": "m.wikipedia.wikimirror.org",
       "example": "",
-      "enable": true,
+      "enable": false,
       "process": "",
       "_originRe": {}
     },
@@ -1312,7 +1312,7 @@
       "types": [],
       "target": "wikiquote.wikimirror.org",
       "example": "",
-      "enable": true,
+      "enable": false,
       "process": "",
       "_originRe": {}
     },
@@ -1336,7 +1336,7 @@
       "types": [],
       "target": "upload.wikimedia.org",
       "example": "",
-      "enable": false,
+      "enable": true,
       "process": "",
       "_originRe": {}
     },
