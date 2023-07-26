@@ -27,6 +27,30 @@
     },
     {
       "description": "",
+      "origin": "https://google87.azurewebsites.net",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "http://google87.azurewebsites.net",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "",
+      "origin": "https://googleone.azurewebsites.net",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "http://googleone.azurewebsites.net",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "",
       "origin": "http://twitter.com",
       "exclude": "",
       "methods": [],
