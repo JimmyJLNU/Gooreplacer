@@ -183,6 +183,18 @@
     },
     {
       "description": "",
+      "origin": "i.ytimg.com",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "invidious.no-logs.com",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "",
       "origin": "http://youtube.com",
       "exclude": "",
       "methods": [],
