@@ -133,6 +133,7 @@
       "process": "",
       "_originRe": {}
     },
+    {
       "description": "",
       "origin": "cn.gravatar.com",
       "exclude": "",
@@ -156,6 +157,7 @@
       "process": "",
       "_originRe": {}
     },
+    {
       "description": "",
       "origin": "www.gravatar.com",
       "exclude": "",
@@ -167,6 +169,7 @@
       "process": "",
       "_originRe": {}
     },
+    {
       "description": "",
       "origin": "secure.gravatar.com",
       "exclude": "",
