@@ -303,6 +303,18 @@
     },
     {
       "description": "",
+      "origin": "raw.githubusercontent.com",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "raw.github.ink",
+      "example": "",
+      "enable": false,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "",
       "origin": "https://cdn.jwplayer.com",
       "exclude": "",
       "methods": [],
