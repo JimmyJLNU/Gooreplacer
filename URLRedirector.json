@@ -309,7 +309,7 @@
       "types": [],
       "target": "raw.github.ink",
       "example": "",
-      "enable": false,
+      "enable": true,
       "process": "",
       "_originRe": {}
     },
