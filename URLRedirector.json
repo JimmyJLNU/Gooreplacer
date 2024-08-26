@@ -231,6 +231,18 @@
     },
     {
       "description": "",
+      "origin": "upload.wikimedia.org/chped.commons/",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "upload.wikimedia.org/wikipedia/commons/",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "",
       "origin": "www.youtube-nocookie.com",
       "exclude": "",
       "methods": [],
